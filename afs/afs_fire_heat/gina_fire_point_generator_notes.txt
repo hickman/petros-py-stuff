@@ -1,0 +1,12 @@
+Path to the arcgis server fire_heat_points source gdb:
+/home/ags/arcgis/server/usr/directories/arcgissystem/arcgisinput/afs/VIIRS_iBand_FireHeatPoints.MapServer/extracted/p20/viirs_iband_fireheatpoints.gdb
+
+- fire_point_gen.py <input file .txt>
+
+- make csv
+
+- make xy event
+
+- copy features to tgt gdb
+
+
